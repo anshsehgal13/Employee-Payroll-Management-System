@@ -27,4 +27,6 @@ Stakeholders:
 •	IT Department
 By addressing the above problem statement and objectives, the organization aims to modernize and optimize its employee payroll management process, leading to increased efficiency, accuracy, and employee satisfaction.
 
+Class Diagram:
+<img width="324" alt="Screenshot 2023-10-22 020010" src="https://github.com/anshsehgal13/Employee-Payroll-Management-System/assets/148655628/2c6d1d54-a244-4c29-ab3a-61a6e115f0b1">
 
